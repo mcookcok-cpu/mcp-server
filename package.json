@@ -1,0 +1,14 @@
+{
+  "name": "clautzy-shell-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "MCP Server with shell and super user execution capability",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest",
+    "express": "latest"
+  }
+}
